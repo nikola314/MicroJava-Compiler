@@ -1,0 +1,15 @@
+program P
+	const int size = 10;
+	int x;
+	{
+		void main ()		
+		int sizex,sva fas,y ;
+		int size1 fqw;
+		int size3; 
+		int ;
+		int f = ;
+		{
+			x = 2 2; 
+			x = 5 adfa;  
+		}
+	}
